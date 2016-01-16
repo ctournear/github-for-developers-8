@@ -1,4 +1,5 @@
 #Charles Tournear
- **Cincinati, OH**
- *Pizza*
- computers as hobby
+ **Location: ** Cincinati, OH
+ **Favorite Food:** *Pizza*
+ **Hobby:** computers as hobby
+ **Favorite color:** Blue
